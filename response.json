@@ -1,0 +1,275 @@
+{
+    "data": {
+      "getUserInfo": [
+        {
+          "collectionName": "Primates",
+          "floorPrice": 0,
+          "totalItem": 16,
+          "nftList": [
+            {
+              "nftName": "Primate #11",
+              "nftImage": "https://shdw-drive.genesysgo.net/GaNrVF4DzqFsiatrVbe7KozDHaR4JNGBvZuEfzUJSKoe/11.png"
+            },
+            {
+              "nftName": "Primate #16",
+              "nftImage": "https://shdw-drive.genesysgo.net/GaNrVF4DzqFsiatrVbe7KozDHaR4JNGBvZuEfzUJSKoe/16.png"
+            },
+            {
+              "nftName": "Primate #2",
+              "nftImage": "https://shdw-drive.genesysgo.net/GaNrVF4DzqFsiatrVbe7KozDHaR4JNGBvZuEfzUJSKoe/2.png"
+            },
+            {
+              "nftName": "Primate #10",
+              "nftImage": "https://shdw-drive.genesysgo.net/GaNrVF4DzqFsiatrVbe7KozDHaR4JNGBvZuEfzUJSKoe/10.png"
+            },
+            {
+              "nftName": "Primate #1",
+              "nftImage": "https://shdw-drive.genesysgo.net/GaNrVF4DzqFsiatrVbe7KozDHaR4JNGBvZuEfzUJSKoe/1.png"
+            },
+            {
+              "nftName": "Primate #3",
+              "nftImage": "https://shdw-drive.genesysgo.net/GaNrVF4DzqFsiatrVbe7KozDHaR4JNGBvZuEfzUJSKoe/3.png"
+            },
+            {
+              "nftName": "Primate #5",
+              "nftImage": "https://shdw-drive.genesysgo.net/GaNrVF4DzqFsiatrVbe7KozDHaR4JNGBvZuEfzUJSKoe/5.png"
+            },
+            {
+              "nftName": "Primate #15",
+              "nftImage": "https://shdw-drive.genesysgo.net/GaNrVF4DzqFsiatrVbe7KozDHaR4JNGBvZuEfzUJSKoe/15.png"
+            },
+            {
+              "nftName": "Primate #14",
+              "nftImage": "https://shdw-drive.genesysgo.net/GaNrVF4DzqFsiatrVbe7KozDHaR4JNGBvZuEfzUJSKoe/14.png"
+            },
+            {
+              "nftName": "Primate #4",
+              "nftImage": "https://shdw-drive.genesysgo.net/GaNrVF4DzqFsiatrVbe7KozDHaR4JNGBvZuEfzUJSKoe/4.png"
+            },
+            {
+              "nftName": "Primate #12",
+              "nftImage": "https://shdw-drive.genesysgo.net/GaNrVF4DzqFsiatrVbe7KozDHaR4JNGBvZuEfzUJSKoe/12.png"
+            },
+            {
+              "nftName": "Primate #8",
+              "nftImage": "https://shdw-drive.genesysgo.net/GaNrVF4DzqFsiatrVbe7KozDHaR4JNGBvZuEfzUJSKoe/8.png"
+            },
+            {
+              "nftName": "Primate #13",
+              "nftImage": "https://shdw-drive.genesysgo.net/GaNrVF4DzqFsiatrVbe7KozDHaR4JNGBvZuEfzUJSKoe/13.png"
+            },
+            {
+              "nftName": "Primate #7",
+              "nftImage": "https://shdw-drive.genesysgo.net/GaNrVF4DzqFsiatrVbe7KozDHaR4JNGBvZuEfzUJSKoe/7.png"
+            },
+            {
+              "nftName": "Primate #6",
+              "nftImage": "https://shdw-drive.genesysgo.net/GaNrVF4DzqFsiatrVbe7KozDHaR4JNGBvZuEfzUJSKoe/6.png"
+            },
+            {
+              "nftName": "Primate #9",
+              "nftImage": "https://shdw-drive.genesysgo.net/GaNrVF4DzqFsiatrVbe7KozDHaR4JNGBvZuEfzUJSKoe/9.png"
+            }
+          ]
+        },
+        {
+          "collectionName": "unnamed",
+          "floorPrice": 0,
+          "totalItem": 32,
+          "nftList": [
+            {
+              "nftName": "Vandal #13",
+              "nftImage": "https://storage.googleapis.com/vc-metadata.appspot.com/image/13.png"
+            },
+            {
+              "nftName": "LS: The Hallowed #14",
+              "nftImage": "https://bafybeifhpnpltrdo6wseyvqqujdm4vsg4j3dnhqixwt3ylmxwvlfvoqtnm.ipfs.nftstorage.link/14.png?ext=png"
+            },
+            {
+              "nftName": "LS: The Hallowed #10",
+              "nftImage": "https://bafybeifhpnpltrdo6wseyvqqujdm4vsg4j3dnhqixwt3ylmxwvlfvoqtnm.ipfs.nftstorage.link/10.png?ext=png"
+            },
+            {
+              "nftName": "LS: The Hallowed #2",
+              "nftImage": "https://bafybeifhpnpltrdo6wseyvqqujdm4vsg4j3dnhqixwt3ylmxwvlfvoqtnm.ipfs.nftstorage.link/2.png?ext=png"
+            },
+            {
+              "nftName": "LS: The Hallowed #16",
+              "nftImage": "https://bafybeifhpnpltrdo6wseyvqqujdm4vsg4j3dnhqixwt3ylmxwvlfvoqtnm.ipfs.nftstorage.link/16.png?ext=png"
+            },
+            {
+              "nftName": "LS: The Hallowed #7",
+              "nftImage": "https://bafybeifhpnpltrdo6wseyvqqujdm4vsg4j3dnhqixwt3ylmxwvlfvoqtnm.ipfs.nftstorage.link/7.png?ext=png"
+            },
+            {
+              "nftName": "Vandal #12",
+              "nftImage": "https://storage.googleapis.com/vc-metadata.appspot.com/image/12.png"
+            },
+            {
+              "nftName": "Vandal #14",
+              "nftImage": "https://storage.googleapis.com/vc-metadata.appspot.com/image/14.png"
+            },
+            {
+              "nftName": "LS: The Hallowed #9",
+              "nftImage": "https://bafybeifhpnpltrdo6wseyvqqujdm4vsg4j3dnhqixwt3ylmxwvlfvoqtnm.ipfs.nftstorage.link/9.png?ext=png"
+            },
+            {
+              "nftName": "Vandal #1",
+              "nftImage": "https://storage.googleapis.com/vc-metadata.appspot.com/image/1.png"
+            },
+            {
+              "nftName": "Vandal #6",
+              "nftImage": "https://storage.googleapis.com/vc-metadata.appspot.com/image/6.png"
+            },
+            {
+              "nftName": "Vandal #5",
+              "nftImage": "https://storage.googleapis.com/vc-metadata.appspot.com/image/5.png"
+            },
+            {
+              "nftName": "Vandal #7",
+              "nftImage": "https://storage.googleapis.com/vc-metadata.appspot.com/image/7.png"
+            },
+            {
+              "nftName": "Vandal #9",
+              "nftImage": "https://storage.googleapis.com/vc-metadata.appspot.com/image/9.png"
+            },
+            {
+              "nftName": "Vandal #4",
+              "nftImage": "https://storage.googleapis.com/vc-metadata.appspot.com/image/4.png"
+            },
+            {
+              "nftName": "Vandal #2",
+              "nftImage": "https://storage.googleapis.com/vc-metadata.appspot.com/image/2.png"
+            },
+            {
+              "nftName": "Vandal #15",
+              "nftImage": "https://storage.googleapis.com/vc-metadata.appspot.com/image/15.png"
+            },
+            {
+              "nftName": "Vandal #8",
+              "nftImage": "https://storage.googleapis.com/vc-metadata.appspot.com/image/8.png"
+            },
+            {
+              "nftName": "LS: The Hallowed #3",
+              "nftImage": "https://bafybeifhpnpltrdo6wseyvqqujdm4vsg4j3dnhqixwt3ylmxwvlfvoqtnm.ipfs.nftstorage.link/3.png?ext=png"
+            },
+            {
+              "nftName": "LS: The Hallowed #5",
+              "nftImage": "https://bafybeifhpnpltrdo6wseyvqqujdm4vsg4j3dnhqixwt3ylmxwvlfvoqtnm.ipfs.nftstorage.link/5.png?ext=png"
+            },
+            {
+              "nftName": "Vandal #11",
+              "nftImage": "https://storage.googleapis.com/vc-metadata.appspot.com/image/11.png"
+            },
+            {
+              "nftName": "LS: The Hallowed #12",
+              "nftImage": "https://bafybeifhpnpltrdo6wseyvqqujdm4vsg4j3dnhqixwt3ylmxwvlfvoqtnm.ipfs.nftstorage.link/12.png?ext=png"
+            },
+            {
+              "nftName": "LS: The Hallowed #8",
+              "nftImage": "https://bafybeifhpnpltrdo6wseyvqqujdm4vsg4j3dnhqixwt3ylmxwvlfvoqtnm.ipfs.nftstorage.link/8.png?ext=png"
+            },
+            {
+              "nftName": "LS: The Hallowed #1",
+              "nftImage": "https://bafybeifhpnpltrdo6wseyvqqujdm4vsg4j3dnhqixwt3ylmxwvlfvoqtnm.ipfs.nftstorage.link/1.png?ext=png"
+            },
+            {
+              "nftName": "LS: The Hallowed #11",
+              "nftImage": "https://bafybeifhpnpltrdo6wseyvqqujdm4vsg4j3dnhqixwt3ylmxwvlfvoqtnm.ipfs.nftstorage.link/11.png?ext=png"
+            },
+            {
+              "nftName": "LS: The Hallowed #4",
+              "nftImage": "https://bafybeifhpnpltrdo6wseyvqqujdm4vsg4j3dnhqixwt3ylmxwvlfvoqtnm.ipfs.nftstorage.link/4.png?ext=png"
+            },
+            {
+              "nftName": "Vandal #10",
+              "nftImage": "https://storage.googleapis.com/vc-metadata.appspot.com/image/10.png"
+            },
+            {
+              "nftName": "LS: The Hallowed #13",
+              "nftImage": "https://bafybeifhpnpltrdo6wseyvqqujdm4vsg4j3dnhqixwt3ylmxwvlfvoqtnm.ipfs.nftstorage.link/13.png?ext=png"
+            },
+            {
+              "nftName": "Vandal #16",
+              "nftImage": "https://storage.googleapis.com/vc-metadata.appspot.com/image/16.png"
+            },
+            {
+              "nftName": "LS: The Hallowed #15",
+              "nftImage": "https://bafybeifhpnpltrdo6wseyvqqujdm4vsg4j3dnhqixwt3ylmxwvlfvoqtnm.ipfs.nftstorage.link/15.png?ext=png"
+            },
+            {
+              "nftName": "LS: The Hallowed #6",
+              "nftImage": "https://bafybeifhpnpltrdo6wseyvqqujdm4vsg4j3dnhqixwt3ylmxwvlfvoqtnm.ipfs.nftstorage.link/6.png?ext=png"
+            },
+            {
+              "nftName": "Vandal #3",
+              "nftImage": "https://storage.googleapis.com/vc-metadata.appspot.com/image/3.png"
+            }
+          ]
+        },
+        {
+          "collectionName": "DeGods",
+          "floorPrice": 0,
+          "totalItem": 14,
+          "nftList": [
+            {
+              "nftName": "DeGod #9",
+              "nftImage": "https://metadata.degods.com/g/8-dead.png"
+            },
+            {
+              "nftName": "DeGod #3",
+              "nftImage": "https://metadata.degods.com/g/2-dead.png"
+            },
+            {
+              "nftName": "DeGod #7",
+              "nftImage": "https://metadata.degods.com/g/6-dead.png"
+            },
+            {
+              "nftName": "DeGod #2",
+              "nftImage": "https://metadata.degods.com/g/1-dead.png"
+            },
+            {
+              "nftName": "DeGod #12",
+              "nftImage": "https://metadata.degods.com/g/11-dead.png"
+            },
+            {
+              "nftName": "DeGod #5",
+              "nftImage": "https://metadata.degods.com/g/4.png"
+            },
+            {
+              "nftName": "DeGod #6",
+              "nftImage": "https://metadata.degods.com/g/5-dead.png"
+            },
+            {
+              "nftName": "DeGod #4",
+              "nftImage": "https://metadata.degods.com/g/3-dead.png"
+            },
+            {
+              "nftName": "DeGod #16",
+              "nftImage": "https://metadata.degods.com/g/15-dead.png"
+            },
+            {
+              "nftName": "DeGod #8",
+              "nftImage": "https://metadata.degods.com/g/7-dead.png"
+            },
+            {
+              "nftName": "DeGod #10",
+              "nftImage": "https://metadata.degods.com/g/9-dead.png"
+            },
+            {
+              "nftName": "DeGod #15",
+              "nftImage": "https://metadata.degods.com/g/14-dead.png"
+            },
+            {
+              "nftName": "DeGod #14",
+              "nftImage": "https://metadata.degods.com/g/13-dead.png"
+            },
+            {
+              "nftName": "DeGod #17",
+              "nftImage": "https://metadata.degods.com/g/16-dead.png"
+            }
+          ]
+        }
+      ]
+    }
+  }
